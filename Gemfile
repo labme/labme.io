@@ -45,11 +45,10 @@ group :development, :test do
   gem 'pry'
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
-  # Use RSpec testing and Capybara for front-end
+  # Use RSpec testing
   gem 'rspec-rails', '~> 3.0'
+  # and Capybara for front-end
   gem 'capybara'
-  gem 'launchy'
-  gem 'factory_girl_rails'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
