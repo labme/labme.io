@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # authentication and OAuth through third-party sites
+gem 'sorcery', '~> 0.9.0'
 
 # Who doesn't love HAML?
 gem 'haml'
