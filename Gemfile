@@ -29,6 +29,8 @@ gem 'sorcery', '~> 0.9.0'
 # Who doesn't love HAML?
 gem 'haml'
 
+# Heroku rails 12-factor
+gem 'rails_12factor'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
