@@ -1,10 +1,10 @@
 # labme.io [![Build Status](https://travis-ci.org/labme/labme.io.svg?branch=master)](https://travis-ci.org/labme/labme.io)
 
-## Find resources in your area to Make your projects a reality.
-
-## Create your virtual lab from public workspaces, businesses, and knowledgeable people available to help in your area.
+### Find resources in your area to Make your projects a reality.
 
 [Live on Heroku](https://labme.herokuapp.com/)
+
+##### Create your virtual lab from public workspaces, businesses, and knowledgeable people available to help in your area.
 
 LabMe.io is an Open Source web application that provides a comprehensive list of local resources to make your project a reality. A user can search a detailed resource database based on location, project, or interest. Users are encouraged to contribute resource entries to the database.
 
