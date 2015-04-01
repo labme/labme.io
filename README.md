@@ -1,16 +1,30 @@
 # labme.io [![Build Status](https://travis-ci.org/labme/labme.io.svg?branch=master)](https://travis-ci.org/labme/labme.io)
 
-### Find resources in your area to take your project from conception to reality.
+### Take your project from conception to reality by connecting to relevant local resources.
 
 [Live on Heroku](https://labme.herokuapp.com/)
 
-##### Create your virtual lab from your home or public workspace, and connect to knowledgeable people available to help in your area.
+##### Create a personalized virtual lab from anywhere to seamlessly organize your project and connect to local experts, suppliers, tools, workspaces and other resources in your area. 
 
-LabMe.io is an Open Source web application that provides a comprehensive list of local resources to make your project a reality. Search the LabMe resource database based on location, project, or interest. The resource database is comprised of curated information provided by resources as well as user contributed information.
+LabMe.io is an open source web application that provides an organizing interface linked to a comprehensive database of local resources to help make your project a reality. Creating a project can take tools, skills, and space; all of which can be expensive or time consuming. Leverage the resource database at LabMe to efficiently gather information about what is available in your area. LabMe informs you of the local resources which are most relevant to your project and provides an easy way to manage that data.
 
-Resources drive the data for LabMe.io. Each resource can help to make your projects a reality. Resources consist of labor, community, and commercial entry listings which provide factual and contextual information to the user.
+Resources include:
+- Community members sharing expertise and knowledge
+- Community members willing to lend a hand
+- Community run workshops, makerspaces, or hackerspaces
+- Libraries
+- Businesses
+- Coworking spaces
+- Suppliers
+- Tool rental locations
 
-Connecting you to resources in your area drives the LabMe community team. LabMe informs you of the local resources which are most relevant to your project.
+The resource database is comprised of API data and public information along with user contributed guides, reviews, pictures, and videos.
+
+Organize resources together as a lab for easy project management. Select the resources you are interested in to get a interactive list defining your virtual project lab. Review, edit, modify and delete your lab based on project requirements.  Labs can be created and shared for others with similar interests.
+
+Save a lab with a project title for a single place to document and manage your project from begining to end. Add research, specifications, designs, build notes, pictures, and videos to your project. The clean interface can guide you through a project, or choose your own workflow and display options. Easily export your project log for backup, external publication, or publish and share directly from LabMe.io.
+
+Just search the LabMe resource database based on location, project, or interest to begin. 
 
 ### Technologies
 
