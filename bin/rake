@@ -5,5 +5,4 @@ rescue LoadError
 end
 require_relative '../config/boot'
 require 'rake'
-require 'bundle'
 Rake.application.run
