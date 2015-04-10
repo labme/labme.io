@@ -2,7 +2,7 @@
 
 ### Take your project from conception to reality by connecting to relevant local resources.
 
-[Live on Heroku](https://labme.herokuapp.com/)
+[Coming soon to Heroku](https://labme.herokuapp.com/)
 
 ##### Create a personalized virtual lab from anywhere to seamlessly organize your project and connect to experts, suppliers, tools, workspaces and other resources in your area. 
 
