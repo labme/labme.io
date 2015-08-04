@@ -1,4 +1,34 @@
 Rails.application.routes.draw do
+  get 'labs/index'
+
+  get 'labs/create'
+
+  get 'labs/show'
+
+  get 'labs/update'
+
+  get 'labs/destroy'
+
+  get 'projects/index'
+
+  get 'projects/create'
+
+  get 'projects/show'
+
+  get 'projects/update'
+
+  get 'projects/destroy'
+
+  get 'projects/get'
+
+  get 'projects/post'
+
+  get 'projects/put'
+
+  get 'projects/patch'
+
+  get 'projects/delete'
+
   root :to => 'users#index'
   resources :user_sessions
   resources :users
